@@ -1,4 +1,4 @@
-# DataAnalyticsPortFolioProjects
+# SQL Data Exploration
 
 This Projects focuses on Data Exploration.
 
